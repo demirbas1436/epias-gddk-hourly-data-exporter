@@ -10,8 +10,8 @@ import os
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # Yapılandırma
-USERNAME = "KANK2"
-PASSWORD = "7q!hUuuTZBehvKs"
+USERNAME = ""
+PASSWORD = ""
 
 effective_start_str = "2025-10-01T00:00:00+03:00"
 effective_end_str = "2025-10-31T23:59:00+03:00"
@@ -350,3 +350,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
